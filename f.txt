@@ -1,0 +1,2 @@
+hello
+Temp=24.0* Humidity=5.0%Temp=25.0* Humidity=5.0%Temp=25.0* Humidity=5.0%
